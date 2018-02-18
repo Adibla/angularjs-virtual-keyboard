@@ -3,7 +3,7 @@ An angular js directive implementation of <a href="https://github.com/Mottie/Key
 
 ## Getting Started
 <ul>
-  <li>Import the ng-virtual-keyboard.min.js script in your page</li>
+  <li>Import the angularjs-virtual-keyboard.js and angularKeyboard.css files in your page</li>
   <li>Include the module ng-virtual-keyboard in your angular app.</li>
   <li>Pass to keyboard directive an input field id, with an optional configuration (you can find options doc at <a href="https://github.com/Mottie/Keyboard">mottie keyboard page</a></li>
 </ul>
