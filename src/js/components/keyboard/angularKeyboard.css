@@ -1,0 +1,7 @@
+.ui-keyboard{
+    height: fit-content;
+    width: auto;
+}
+.keyboardIcon{
+    background: url('../resources/images/kyboard.png') no-repeat left center;
+}
