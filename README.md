@@ -29,7 +29,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Andrea Di Blasi** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Andrea Di Blasi** - *Initial work*
 
 
 ## License
