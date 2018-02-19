@@ -14,13 +14,13 @@ An angular js directive implementation of <a href="https://github.com/Mottie/Key
   <li><a href = 'https://jqueryui.com/draggable/'>Jquery UI (draggable)</a></li>
   <li><a href = 'https://github.com/Mottie/Keyboard'>Mottie keyboard</a></li>
     <li><a href = 'https://fontawesome.com'>Font awesome icons</a></li>
-
 </ul>
 
-
 ### Example
-
 You can find an example in src folder
+
+### Installation
+You can install it using <a href="https://www.npmjs.com/package/angularjs_keyboard">npm</a>
 
 ## Contributing
 
