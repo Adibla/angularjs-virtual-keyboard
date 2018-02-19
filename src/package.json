@@ -1,0 +1,16 @@
+{
+  "name": "angularjs_keyboard",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "angular": "1.6.9",
+    "gulp-angular-embed-templates": "^2.3.0",
+    "gulp-rename": "^1.2.2",
+    "jquery": "3.3.1",
+    "jquery-ui": "1.12.1",
+    "keyboard": "0.0.1",
+    "virtual-keyboard": "1.27.4"
+  },
+  "author": "Andrea Di Blasi",
+  "license": "ISC"
+}
